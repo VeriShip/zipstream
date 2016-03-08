@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/VeriShip/zipstream.svg?branch=master)](https://travis-ci.org/VeriShip/zipstream)
+
 Zip Reader for Hadoop Streaming
 ===============================
 This is a reader that will return (filename, line) key value pairs for a zip
