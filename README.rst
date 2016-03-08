@@ -6,6 +6,10 @@ file in Hadoop streaming.
 Note that currently only the first file in the zip will be processed, if you
 want more - submit a pull request :)
 
+VeriShip Notes:
+===============
+We use this jar to unzip s3 files during EMR hadoop-streaming jobs.
+
 Usage
 =====
 
